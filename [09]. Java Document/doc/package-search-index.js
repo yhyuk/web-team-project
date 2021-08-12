@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.project.rural"},{"l":"com.project.rural.admin"},{"l":"com.project.rural.community"},{"l":"com.project.rural.exp"},{"l":"com.project.rural.farm"},{"l":"com.project.rural.market"},{"l":"com.project.rural.member"},{"l":"com.project.rural.notice"},{"l":"com.project.rural.worker"}];updateSearchResults();
